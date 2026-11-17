@@ -1,5 +1,3 @@
-console.log('Happy developing ✨')
-
 const wrapper = document.getElementById('wrapper');
 
 if(!localStorage.getItem("counter")){
